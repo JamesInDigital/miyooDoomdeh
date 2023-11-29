@@ -12,6 +12,8 @@ This work is licensed under a
 # miyooDoomdeh
 Sets up folder structure and config files for Doom Wads (with companion deh files) for Miyoo Mini+
 
+Main GOAL: Play Army of Darkness Doom TC on Miyoo Mini+ which requires executing a DeHacked file.
+
 Purpose:
 Many of the retro handhelds support DOOM via PrBOOM. I received both a Miyoo Mini+ and a RG35xx recently to play with.
 I found that the custom firmware for the Miyoo (OnionOS) is much better than the RG35xx currently (GarlicOS).
