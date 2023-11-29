@@ -59,6 +59,7 @@ THE LONG:
   save quite a bit of time getting the foundations of what I want to do all done for me. I had to fight with it quite a bit due to the length of the config outputs and it not understanding the formatting of them.
 
 TODO: (Maybe)
+  Get TNT wads working and also setup and test Plutonia wads.
   Copy over thumbnails (if present) to Imgs folder.
   Support more than one deh file.
   Support secondary wads and or custom music files.
