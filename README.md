@@ -35,7 +35,7 @@ THE LONG:
 
   Process:
   Place doom wads in a doom folder along with their deh file (currently only works for a single deh)
-  Place doom 2 wads in a doom2 folder along with their deh file.
+  Place doom II wads in a doom2 folder along with their deh file.
   Do the same for tnt wads (may not be necessary)
     
   The program will scan each folder, recognize whether each wad has a companion deh, move the wads into the appropriate rom structure for the miyoo, 
@@ -43,7 +43,11 @@ THE LONG:
   This results in a Roms and Saves folder which can be copied into the root of the Miyoo.
     
   In the Miyoo head to the ports and Import. Each shortcut should be present and working in the Doom section of the Ports. Provide your own thumnbails in the PORTS\Imgs folder.
-   Currently works for me in all scenarios.
+  Currently works for me in all scenarios.
+   
+  Test with:
+  Army of Darkness TC for DOOM (DOOM II version should also work), Batman Doom for DOOM II, and Doom 4 Vanilla for DOOM II.
+  May need to manually adjust the audio hz in prboom.cfg for AOD as some of the longer Bruce clips seem to play slow. Could be limitation of the system/port.
 
   Notes on ChatGPT:
   I'm not a programmer, but I write programs every now and then. The only previous one I have on GitHub is a script for converting configs between two different retro front ends. 
