@@ -11,6 +11,7 @@ This work is licensed under a
 
 # miyooDoomdeh
 Sets up folder structure and config files for Doom Wads (with companion deh files) for Miyoo Mini+
+USE AT YOUR OWN CAUTION. Keep backups of the Wads/Dehs in case something goes wrong when the roms are being moved into folders, though I've never had an issue.
 
 THE SHORT:
 Doom wads/dehs in doom folder. Doom II wads/dehs in doom2 folder. Run python file. Copy Roms and Saves folder into root of Miyoo Mini.
@@ -42,7 +43,7 @@ THE LONG:
   This results in a Roms and Saves folder which can be copied into the root of the Miyoo.
     
   In the Miyoo head to the ports and Import. Each shortcut should be present and working in the Doom section of the Ports. Provide your own thumnbails in the PORTS\Imgs folder.
-   Currently works for me in all scenarios. USE AT YOUR OWN CAUTION. Keep backups of the ROMs incase something happens when the roms are being moved into folders, though I've never had an issue.
+   Currently works for me in all scenarios.
 
   Notes on ChatGPT:
   I'm not a programmer, but I write programs every now and then. The only previous one I have on GitHub is a script for converting configs between two different retro front ends. 
