@@ -16,6 +16,7 @@ Purpose:
 Many of the retro handhelds support DOOM via PrBOOM. I received both a Miyoo Mini+ and a RG35xx recently to play with.
 I found that the custom firmware for the Miyoo (OnionOS) is much better than the RG35xx currently (GarlicOS).
 Looking through the libretro notes for PrBOOM I noticed that regular BOOM port wads also support deh files, which many mods/TCs come with.
+
 Through testing, I've found that embedding the deh files with some newer DOOM editors does not work for PrBOOM.
 There's no way currently for the Miyoo/RetroArch to recognize the deh files, but they can be specified in the prboom.cfg which is creating after running the wad.
 This means that you have to create the custom shortcuts, put the wads in the correct folder, run it once, then edit the cfg in order to add the deh file.
