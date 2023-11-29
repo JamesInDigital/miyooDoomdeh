@@ -49,6 +49,7 @@ save quite a bit of time getting the foundations of what I want to do all done f
 TODO: (Maybe)
 Copy over thumbnails (if present) to Imgs folder.
 Support more than one deh file.
+Support secondary wads and or custom music files.
 Figure out the structure for RG35xx (GarlicOS) and provide option or convert between the two.
 Do it all in a UI or Drag n drop folders onto the py?
 Make it executable.
