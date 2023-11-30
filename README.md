@@ -13,6 +13,9 @@ This work is licensed under a
 Sets up folder structure and config files for Doom Wads (with companion deh files) for Miyoo Mini+
 USE AT YOUR OWN CAUTION. Keep backups of the Wads/Dehs in case something goes wrong when the roms are being moved into folders, though I've never had an issue.
 
+VERSION HISTORY:
+v3 - First release to Github. Working for DOOM and DOOM II wads/dehs. Tested on Miyoo Mini+.
+
 THE SHORT:
 Doom wads/dehs in doom folder. Doom II wads/dehs in doom2 folder. Run python file. Copy Roms and Saves folder into root of Miyoo Mini.
 ONLY WORKS FOR BOOM COMPATIBLE WADS as Miyoo uses PrBOOM via retroarch.
